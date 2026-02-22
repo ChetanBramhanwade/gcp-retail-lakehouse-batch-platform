@@ -1,0 +1,5 @@
+order_id,customer_id,product_id,order_date,quantity,total_amount
+O1001,C001,P101,2026-02-19,2,2000
+O1002,C002,P102,2026-02-19,1,1500
+O1003,C001,P103,2026-02-20,3,4500
+O1004,C003,P101,2026-02-20,1,1000

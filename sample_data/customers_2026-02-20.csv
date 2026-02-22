@@ -1,0 +1,5 @@
+customer_id,first_name,last_name,email,city,state
+C001,Rahul,Sharma,rahul@gmail.com,Mumbai,MH
+C002,Anita,Verma,anita@gmail.com,Pune,MH
+C003,John,Doe,john@gmail.com,Bangalore,KA
+C004,Priya,Singh,priya@gmail.com,Delhi,DL
